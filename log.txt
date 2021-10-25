@@ -1,3 +1,9 @@
+commit f6b52aa9e077445a861977204ed60cb12c84d68f
+Author: Jose Gabriel Jiménez <josegabojimenez@gmail.com>
+Date:   Sun Oct 24 19:59:34 2021 -0500
+
+    Log file was added to keep an eye on commits
+
 commit 4a36ce6d1c7181bc52d7cf24306221658f094f8e
 Author: Jose Gabriel Jiménez <josegabojimenez@gmail.com>
 Date:   Sun Oct 24 19:45:26 2021 -0500
