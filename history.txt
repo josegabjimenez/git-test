@@ -4,3 +4,6 @@ Hello world!
 I do a mistake here so I delete the line that was here
 
 But I wanted to do more insteresting so I'll write other lines about me
+
+
+This is amazing, I'm using git alias :D 
